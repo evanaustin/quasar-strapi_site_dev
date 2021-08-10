@@ -2,7 +2,7 @@
 
 This is a tabula rasa scaffold for a new Quasar (Vue) + Strapi (Node + MongoDB) **website**. For the web application configuration, see [this repository](https://github.com/evangrinde/tabularasa_quasar-strapi_application).
 
-This a development configuration. For the production configuration, check the `../production` directory.
+This a development configuration. For the production configuration, check the [this repository](https://github.com/evangrinde/template_quasar-strapi_site_prod) directory.
 
 ## Most recent successful build:
 - 10:12PM EST 6/11/2021
